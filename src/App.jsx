@@ -39,6 +39,16 @@ export function App() {
 
             <button>
               <a
+                href="https://dramaryjane.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Modelo de Landing Page para Clínica Odontológica
+              </a>
+            </button>
+
+            <button>
+              <a
                 href="https://callservice.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
@@ -69,7 +79,7 @@ export function App() {
 
             <button>
               <a
-                href="https://extreme-gym.netlify.app"
+                href="https://gymfitnessplus.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
