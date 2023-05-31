@@ -73,7 +73,7 @@ export function App() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Modelo de Ecoommerce
+                Modelo de Ecommerce
               </a>
             </button>
 
