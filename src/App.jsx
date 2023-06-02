@@ -49,6 +49,16 @@ export function App() {
 
             <button>
               <a
+                href="https://photographer-sofia.netlify.app"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Modelo de Landing Page Portfolio Photographer
+              </a>
+            </button>
+
+            <button>
+              <a
                 href="https://callservice.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
