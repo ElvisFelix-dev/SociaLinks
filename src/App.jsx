@@ -118,7 +118,7 @@ export function App() {
             </a>
 
             <a
-              href="https://www.instagram.com/eyesgreen_tech/"
+               href="https://www.instagram.com/2system_dev/"
               target="_blank"
               rel="noreferrer"
             >
