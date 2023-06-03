@@ -59,6 +59,16 @@ export function App() {
 
             <button>
               <a
+                href="https://advogaciamoderna.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Modelo de Landing Page para Escritório de Advogacia
+              </a>
+            </button>
+
+            <button>
+              <a
                 href="https://callservice.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
