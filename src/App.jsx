@@ -63,7 +63,7 @@ export function App() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Modelo de Landing Page para Escritório de Advogacia
+                Modelo de Landing Page para Escritório de Advocacia
               </a>
             </button>
 
