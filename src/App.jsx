@@ -43,7 +43,7 @@ export function App() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Landing-page para Barbearia
+                Landing page para Barbearia
               </a>
             </button>
 
