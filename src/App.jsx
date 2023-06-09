@@ -69,7 +69,7 @@ export function App() {
 
             <button>
               <a
-                href="https://advogaciamoderna.netlify.app/"
+                href="https://advocaciamoderna.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
