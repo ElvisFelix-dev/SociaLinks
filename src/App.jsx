@@ -39,6 +39,16 @@ export function App() {
 
             <button>
               <a
+                href="https://barbeariashop.netlify.app"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Landing-page para Barbearia
+              </a>
+            </button>
+
+            <button>
+              <a
                 href="https://dramaryjane.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
