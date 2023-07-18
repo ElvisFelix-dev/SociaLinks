@@ -39,6 +39,16 @@ export function App() {
 
             <button>
               <a
+                href="https://studioinkzone.netlify.app"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Landing page para Studio Tattoo
+              </a>
+            </button>
+
+            <button>
+              <a
                 href="https://barbeariashop.netlify.app"
                 target="_blank"
                 rel="noreferrer"
